@@ -79,3 +79,12 @@ Here are all cards with themes.
 ```
 ![](https://raw.githubusercontent.com/tsmoreland/tsmoreland/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)
 
+
+### github
+
+
+```
+[![](https://raw.githubusercontent.com/tsmoreland/tsmoreland/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+```
+![](https://raw.githubusercontent.com/tsmoreland/tsmoreland/main/profile-summary-card-output/github/1-repos-per-language.svg)
+
