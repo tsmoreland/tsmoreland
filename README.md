@@ -27,3 +27,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Gists
+
+Random notes, mostly to myself primarily consistening of useful tidbits, command lines, ...
+
+[GitHub Gist](https://gist.github.com/tsmoreland)
