@@ -28,6 +28,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Currently Learning
+
+- 🌱 it varies day to day but it's ssafe to say I'm a fairly active pluralsight viewer, as seen [here](https://app.pluralsight.com/profile/terry-moreland-c3)
+
 ## Gists
 
 Random notes, mostly to myself primarily consistening of useful tidbits, command lines, ...
