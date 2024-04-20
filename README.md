@@ -2,8 +2,6 @@
 
 I'm a Software Engineer from Canada🍁 currently working for [Rapid7](https://www.rapid7.com).  In my spare time I enjoy playing video games, working on various side projects and spending time with my family.
 
-## Project Stats
-
 ![](https://github-readme-stats.vercel.app/api?username=tsmoreland&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsmoreland&layout=donut-vertical&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
