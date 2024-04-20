@@ -4,8 +4,9 @@ I'm a Software Engineer from Canada🍁 currently working for [Rapid7](https://w
 
 ## Project Stats
 
-[![](https://raw.githubusercontent.com/tsmoreland/tsmoreland/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/tsmoreland/tsmoreland/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](https://github-readme-stats.vercel.app/api?username=tsmoreland)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tsmoreland)
+
 ## Contact 
 
 [![e-mail](https://raw.githubusercontent.com/tsmoreland/tsmoreland/main/img/pen.png)](mailto://terry.s.moreland@gmail.com)
