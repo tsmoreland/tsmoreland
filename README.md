@@ -4,8 +4,8 @@ I'm a Software Engineer from Canada🍁 currently working for [Rapid7](https://w
 
 ## Project Stats
 
-![](https://github-readme-stats.vercel.app/api?username=tsmoreland&show_icons=true&theme=transparent))
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tsmoreland&show_icons=true&theme=transparent))
+![](https://github-readme-stats.vercel.app/api?username=tsmoreland&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsmoreland&layout=donut-vertical&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact 
 
