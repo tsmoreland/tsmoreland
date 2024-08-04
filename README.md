@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ## Currently Learning
 
-- 🌱 it varies day to day but it's ssafe to say I'm a fairly active pluralsight viewer, as seen [here](https://app.pluralsight.com/profile/terrymoreland); [previously](https://app.pluralsight.com/profile/terry-moreland-c3)
+- 🌱 it varies day to day but it's safe to say I'm a fairly active pluralsight viewer, as seen [here](https://app.pluralsight.com/profile/terrymoreland); [previously](https://app.pluralsight.com/profile/terry-moreland-c3)
 
 ## Gists
 
