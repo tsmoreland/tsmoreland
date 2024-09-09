@@ -2,8 +2,10 @@
 
 I'm a Software Engineer from Canada🍁 currently working for [Genius Sports](https://geniussports.com/).  In my spare time I enjoy playing video games, working on various side projects and spending time with my family.
 
-![](https://github-readme-stats.vercel.app/api?username=tsmoreland&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsmoreland&layout=donut-vertical&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://raw.githubusercontent.com/tsmoreland/tsmoreland/main/profile-summary-card-output/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/tsmoreland/tsmoreland/main/profile-summary-card-output/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/tsmoreland/tsmoreland/main/profile-summary-card-output/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/tsmoreland/tsmoreland/main/profile-summary-card-output/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/tsmoreland/tsmoreland/main/profile-summary-card-output/transparent/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 ## Contact 
 
