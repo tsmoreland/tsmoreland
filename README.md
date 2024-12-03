@@ -37,3 +37,7 @@ Here are some ideas to get you started:
 Random notes, mostly to myself primarily consistening of useful tidbits, command lines, ...
 
 [GitHub Gist](https://gist.github.com/tsmoreland)
+
+## Additional Git Repos
+
+- [Gitlab](https://gitlab.com/tsmoreland)
